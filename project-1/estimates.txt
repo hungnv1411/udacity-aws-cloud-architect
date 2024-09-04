@@ -1,0 +1,4 @@
+1. Minimum RTO for a single AZ outage
+2. Minimum RTO for a single region outage
+3. Minimum RPO for a single AZ outage
+4. Minimum RPO for a single region outage
